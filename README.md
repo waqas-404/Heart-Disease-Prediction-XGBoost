@@ -10,6 +10,9 @@ A machine learning web application that predicts the likelihood of heart disease
 
 Heart disease is one of the leading causes of death worldwide. Early detection can significantly improve outcomes. This app lets users input medical parameters into a simple web interface and instantly receive a risk prediction.
 
+You can check the app on this link:
+https://heart-disease-prediction-xgboost-3b.streamlit.app/
+
 ---
 
 ## 🧠 Model & Workflow
